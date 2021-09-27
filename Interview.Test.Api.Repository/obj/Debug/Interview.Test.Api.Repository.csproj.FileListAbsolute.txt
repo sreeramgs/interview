@@ -1,0 +1,15 @@
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\bin\Debug\Interview.Test.Api.Repository.dll.config
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\bin\Debug\Interview.Test.Api.Repository.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\bin\Debug\Interview.Test.Api.Repository.pdb
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\bin\Debug\EntityFramework.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\bin\Debug\Interview.Test.DataContracts.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\bin\Debug\Interview.Test.DataContracts.pdb
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\bin\Debug\Interview.Test.DataContracts.dll.config
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\bin\Debug\EntityFramework.xml
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\obj\Debug\Interview.Test.Api.Repository.csprojAssemblyReference.cache
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\obj\Debug\Interview.Test.Api.Repository.csproj.CoreCompileInputs.cache
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\obj\Debug\Interview.Test.Api.Repository.csproj.CopyComplete
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\obj\Debug\Interview.Test.Api.Repository.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Api.Repository\obj\Debug\Interview.Test.Api.Repository.pdb

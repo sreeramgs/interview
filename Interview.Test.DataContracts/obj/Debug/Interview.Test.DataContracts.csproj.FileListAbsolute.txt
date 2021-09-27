@@ -1,0 +1,14 @@
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\bin\Debug\Interview.Test.DataContracts.dll.config
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\bin\Debug\Interview.Test.DataContracts.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\bin\Debug\Interview.Test.DataContracts.pdb
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\bin\Debug\EntityFramework.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\bin\Debug\Newtonsoft.Json.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\bin\Debug\EntityFramework.xml
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\bin\Debug\Newtonsoft.Json.xml
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\obj\Debug\Interview.Test.DataContracts.csprojAssemblyReference.cache
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\obj\Debug\Interview.Test.DataContracts.csproj.CoreCompileInputs.cache
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\obj\Debug\Interview.Test.DataContracts.csproj.CopyComplete
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\obj\Debug\Interview.Test.DataContracts.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.DataContracts\obj\Debug\Interview.Test.DataContracts.pdb

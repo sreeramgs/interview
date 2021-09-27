@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<div style="width:90%; margin:0 auto;">
+    <table id="myTable">
+        <thead>
+            <tr>
+                <th>Scenario ID</th>
+                <th>Name</th>
+                <th>Surname</th>
+                <th>Forename</th>
+                <th>User ID</th>
+                <th>Sample Date</th>
+                <th>Creation Date</th>
+                <th>Num Months</th>
+                <th>Market ID</th>
+                <th>NetworkLayer ID</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+<style>
+    tr.even {
+        background-color: #F5F5F5 !important;
+    }
+</style>
+@* Load datatable css *@
+<link href="//cdn.datatables.net/1.10.9/css/jquery.dataTables.min.css" rel="stylesheet" />
+@* Load datatable js *@
+@section Scripts{
+    <script src="//cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="@Url.Content("~/Scripts/moment/moment.min.js")"></script>
+    <script>
+        $(document).ready(function () {
+            function getDateString(date) {
+                var dateObj = new Date(parseInt(date.substr(6)));
+                return dateObj.toDateString();
+            }
+
+            $('#myTable').DataTable({
+                "ajax": {
+                    "url": "/Scenario/GetAll",
+                    "type": "GET",
+                    "datatype": "json"
+                },
+                "columns": [
+                    { "data": "ScenarioID", "autoWidth": true },
+                    { "data": "Name", "autoWidth": true },
+                    { "data": "Surname", "autoWidth": true },
+                    { "data": "Forename", "autoWidth": true },
+                    { "data": "UserID", "autoWidth": true },
+                    {
+                        "data": "SampleDate", "autoWidth": true, "render": function (value) {
+                            if (value === null) return "";
+                            return moment(value).format('DD/MM/YYYY');
+                        }
+                    },
+                    {
+                        "data": "CreationDate", "autoWidth": true, "render": function (value) {
+                            if (value === null) return "";
+                            return moment(value).format('DD/MM/YYYY');
+                        }
+
+                    },
+                    { "data": "NumMonths", "autoWidth": true },
+                    { "data": "MarketID", "autoWidth": true },
+                    { "data": "NetworkLayerID", "autoWidth": true }
+                ]
+            });
+        });
+    </script>
+}

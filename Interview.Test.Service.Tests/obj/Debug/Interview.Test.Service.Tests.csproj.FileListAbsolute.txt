@@ -1,0 +1,15 @@
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\bin\Debug\Interview.Test.Service.Tests.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\bin\Debug\Interview.Test.Service.Tests.pdb
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\bin\Debug\Interview.Test.Api.Repository.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\bin\Debug\Interview.Test.DataContracts.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\bin\Debug\Interview.Test.Service.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\bin\Debug\Interview.Test.Api.Repository.pdb
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\bin\Debug\Interview.Test.Api.Repository.dll.config
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\bin\Debug\Interview.Test.DataContracts.pdb
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\bin\Debug\Interview.Test.DataContracts.dll.config
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\bin\Debug\Interview.Test.Service.pdb
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\obj\Debug\Interview.Test.Service.Tests.csprojAssemblyReference.cache
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\obj\Debug\Interview.Test.Service.Tests.csproj.CoreCompileInputs.cache
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\obj\Debug\Interview.Test.Service.Tests.csproj.CopyComplete
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\obj\Debug\Interview.Test.Service.Tests.dll
+C:\Interview\Virgin\Interview.Test.Web.UI\Interview.Test.Service.Tests\obj\Debug\Interview.Test.Service.Tests.pdb
